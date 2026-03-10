@@ -1,85 +1,63 @@
 # 🌟 drf-learning - Learn Django REST Framework Easily
 
-## 📦 Download Now
-[![Download drf-learning](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip)](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip)
-
 ## 📖 Overview
-Welcome to **drf-learning**! This repository is your companion for learning the Django REST Framework. It includes notes, examples, and my journey in building my first Django API. Whether you're new to APIs or want to enhance your knowledge, you are in the right place.
+Welcome to **drf-learning**! This repository is your companion for learning the Django REST Framework. It includes notes, examples, and a journey in building a first Django API. Whether you're new to APIs or want to enhance your knowledge, you are in the right place.
 
-## 🚀 Getting Started
-To get started with this software, follow the steps below. You don’t need programming experience; just a computer with an internet connection will do.
+---
 
-## 📥 Download & Install
-1. Click the download button at the top of this page to reach our releases page:
-   - [Download drf-learning](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip).
-   
-2. Once on the releases page, find the latest version of **drf-learning**. 
+## 🚀 Getting Started (Safe Installation)
+To ensure security and the best experience, we recommend installing the project directly from the source code instead of using external ZIP links.
 
-3. Click on the version number and look for the file that says **.zip** or **https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip**. This file contains all the necessary materials.
+### 📥 Step-by-Step Setup
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/ElainaWangy/drf-learning.git](https://github.com/ElainaWangy/drf-learning.git)
+   cd drf-learning/blogapi
+Create Virtual Environment:
 
-4. Click on the file name to start the download. Save it to a location you can easily access, like your Desktop or Downloads folder.
+Bash
+python -m venv venv
+.\venv\Scripts\activate  # Windows
+Install Dependencies:
 
-5. After the download is complete, locate the file. Extract it by right-clicking on it and selecting “Extract All” (or similar, depending on your operating system). 
+Bash
+pip install -r requirements.txt
+Run Migrations & Start Server:
 
-6. Open the extracted folder, and find the **https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip** file. Open this file to view more specific instructions tailored for your needs.
+Bash
+python manage.py migrate
+python manage.py runserver
+💻 System Requirements
+Operating System: Windows 10+, macOS 10.12+, or Linux.
 
-## 💻 System Requirements
-To run **drf-learning**, ensure your computer meets the following requirements:
+Python Version: Python 3.8+ recommended (Django 5.x support).
 
-- Operating System: Windows 10 or later, macOS 10.12 or later, or a Linux distribution.
-- Python Version: Python 3.6 or later installed on your system.
-- Internet Access: Required for downloading dependencies and packages.
+## 🖥️ For Regular Users (Non-Programmers)
+This is a **Web API backend**, not a standard desktop application. To run it on your PC:
+1. You need **Python** installed (from python.org).
+2. Instead of a double-click icon, you run it through the "Terminal" or "Command Prompt".
+3. Once started, you access the "app" via your web browser at `http://127.0.0.1:8000/`.
 
-## 🔧 How to Use
-1. After setting up everything, you can start exploring the examples provided. You will find code snippets and explanations in the **examples** folder.
+*Note: This software is designed for servers and currently does not support mobile (iOS/Android) installation as a standalone app.*
 
-2. If you'd like to run any code samples, you can use a terminal or command prompt.
+📝 Topics Covered
+Client-server architecture & CRUD operations
 
-3. Use the following command to execute code: 
-   ```
-   python https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip
-   ```
-   Replace `https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip` with the name of the Python file you want to run.
+DNS, HTTP/HTTPS, TCP, and networking basics
 
-4. Follow the notes for detailed explanations about how to interact with the Django REST Framework.
+Django REST Framework (DRF) patterns and Swagger documentation.
 
-5. Feel free to modify the examples to understand how the code works.
+🤝 Contributing & Support
+We welcome contributions! If you have suggestions or want to share additional examples:
 
-## 📝 Topics Covered
-In this repository, you will explore various important topics related to REST APIs, such as:
+Fork the project.
 
-- Client-server architecture
-- CRUD operations (Create, Read, Update, Delete)
-- DNS, HTTP, and HTTPS protocols
-- IP addresses and networking basics
-- Learning paths for Django REST Framework
-- Understanding RESTful APIs
-- TCP and URL management
+Create a Feature Branch.
 
-## 🚧 Troubleshooting
-If you encounter issues while downloading or using **drf-learning**, try the following:
+Open a Pull Request.
 
-- Ensure your internet connection is stable.
-- Check that you have the correct version of Python installed.
-- Make sure you have extracted the files correctly.
+📅 Latest Updates
+PR #1 (by @sharipovjonibek): Fixed security warnings, updated installation guide, and added DEFAULT_AUTO_FIELD for Django 5.x compatibility.
 
-If problems persist, consider opening an issue in the repository. Your feedback helps improve this learning resource.
-
-## 👥 Community
-Join our community! Share your experiences, ask questions, or connect with others who are also learning. You can find helpful discussions and tips in the Issues section of this repository.
-
-## 🤝 Contributing
-While this repository is primarily for learning, you are welcome to contribute! If you have suggestions or want to share additional examples, please create a pull request or open an issue.
-
-## 📅 Latest Updates
-We will regularly update this repository with new examples and notes. Stay tuned for the latest changes on the releases page.
-
-For the most recent version, always refer back to our [Download drf-learning](https://github.com/ElainaWangy/drf-learning/raw/refs/heads/main/blogapi/blog_project/drf_learning_3.9.zip) link.
-
-## 🌐 Additional Resources
-To deepen your understanding of Django REST Framework, explore the following resources:
-
-- **Django REST Framework Documentation**: Official documentation for the framework.
-- **Django Official Documentation**: Comprehensive guides and references for Django.
-
-Feel free to dive in and start your journey in building amazing APIs!
+📝 License
+This project is licensed under the MIT License. Feel free to use and modify it for learning purposes.
